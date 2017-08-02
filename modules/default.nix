@@ -8,6 +8,7 @@ with lib;
 let
 
   modules = [
+    ./envvars.nix
     ./home-environment.nix
     ./manual.nix
     ./misc/gtk.nix
