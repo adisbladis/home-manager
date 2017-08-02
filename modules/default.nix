@@ -19,6 +19,7 @@ let
     ./programs/eclipse.nix
     ./programs/emacs.nix
     ./programs/firefox.nix
+    ./programs/fish.nix
     ./programs/git.nix
     ./programs/gnome-terminal.nix
     ./programs/home-manager.nix
